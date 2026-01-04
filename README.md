@@ -1,3 +1,3 @@
-# Resturant-NAme-Menu-Generator-Using-Langchain-
+# Resturant-Name & Menu-Generator-Using-Langchain-
 Restaurant Name and Menu Generator.
 This project is a Restaurant Name and Menu Generator built using Streamlit, LangChain, and OpenAI GPT-3.5/4 models. The application allows users to select or input a cuisine type and automatically generates a creative and fancy restaurant name along with a detailed menu including starters, main courses, desserts, and drinks. Internally, the project leverages LangChain’s PromptTemplate and SequentialChain to first generate the restaurant name and then create the corresponding menu, making it a multi-step AI-powered workflow. The application is designed as a proof-of-concept (POC) and can be deployed both locally and on Hugging Face Spaces for interactive use. This project demonstrates how modern AI tools can be integrated into user-friendly applications to assist in creative business idea generation.
